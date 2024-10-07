@@ -1,4 +1,4 @@
-# VesselStrikeRiskModel
+# VesselStrike_RiskModel
 Vessel strike risk model for large whales
 
 
